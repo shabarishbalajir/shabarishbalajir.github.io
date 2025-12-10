@@ -23,7 +23,7 @@ repository               : shabarishbalajir/shabarishbalajir.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Shabarish_Balaji.jpeg"
+  avatar           : "Shabarish_Balaji.png"
   name             : "Shabarish Balaji" 
   bio              : "Undergraduate interested in SciML research"
   location         : "Chennai, India"
