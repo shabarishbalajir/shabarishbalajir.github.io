@@ -7,9 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Shabarish Balaji Rajkumar. Welcome to my academic portfolio!
+Hello! I am Shabarish. Welcome to my academic portfolio!
 
-I am a Final-year Undergraduate Mechanical Engineering student at IIT Madras Minoring in AI. I am intrigued by the impact of scientific machine learning, particularly interested in ML-augmented computational methods to remove tradional bottlenecks(espcially for turbulence modelling) and building agentic systems for scientific discovery.
+I am a Final-year Undergraduate Mechanical Engineering student at IIT Madras Minoring in AI. I am interested in building data-driven, physics-informed machine learning models for scalable and interpretable scientific computing.
+
+My research interests lie in turbulence modeling, Sci-ML for PDE-governed systems, and in building interpretable frameworks for physics-informed models. During my undergraduate, I worked on physics-informed inverse design with [Dr. Nagabhushna Rao Vadlamani](), time series turbulence with [Dr. Mahesh Panchungula](), and turbulence super-resolution and causality-aware Sci-ML approaches with [Dr. Konduri Aditya](). I am currently working with [Dr. Chakravarthy Balaji]() for my Bacheloar's thesis on neural-operator guided spatio-temporal modeling of temperature fields in data-centers.
+
+
+
+My goal is build foundational Sci-Ml models with a focus on model intrepretability that alleviate tradioanl bottllenecks in compuatational systems. State-of-the-art Sci-ML methologies offer signigicant advantages, but reliance on extensive iterative testing and limited reproducibility of results continue to hinder progress.
+
+To address these limitations, my goal is to develop foundational models augmented with principled interpretability frameworks and physical constraints which will be essential in bringing data-driven models towards mainstream, production-quality software for widespread use.
+
+I am also fascinated by the rise of large language models and recent advances in agentic systems, and I aim to leverage these developments to build agentic frameworks that assist and accelerate scientific discovery. 
 
 
 
