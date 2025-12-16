@@ -1,39 +1,21 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: true # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
-About
------
-Hello! I am Shabarish. Welcome to my academic portfolio! I am a Final-year Undergraduate Mechanical Engineering student at IIT Madras Minoring in AI. I am interested in building data-driven, physics-informed machine learning models for scalable and interpretable scientific computing.
 
-My research interests lie in turbulence modeling, Sci-ML for PDE-governed systems, and in building interpretable frameworks for physics-informed models. During my undergraduate, I worked on physics-informed inverse design with [Dr. Nagabhushna Rao Vadlamani](https://home.iitm.ac.in/nrv/index.html), time series turbulence with [Dr. Mahesh Panchungula](https://home.iitm.ac.in/mvp/), and turbulence super-resolution and causality-aware Sci-ML approaches with [Dr. Konduri Aditya](https://cds.iisc.ac.in/faculty/konduriadi/). I am currently working with [Dr. Chakravarthy Balaji](https://home.iitm.ac.in/balaji/) for my Bacheloar's thesis on neural-operator guided spatio-temporal modeling of temperature fields in data-centers.
+Hello! I am Shabarish. Welcome to my academic portfolio! I am a Final-year Undergraduate Mechanical Engineering student at IIT Madras Minoring in AI. I am interested in building data-driven, physics-informed machine learning models for scalable and interpretable scientific computing. I am also fascinated by the rise of large language models and recent advances in agentic systems, and I aim to leverage these developments to build agentic frameworks that assist and accelerate scientific discovery.
 
-Research Interests
-------
-My goal is build foundational Sci-Ml models with a focus on model intrepretability that alleviate tradioanl bottllenecks in compuatational systems. State-of-the-art Sci-ML methologies offer signigicant advantages, but reliance on extensive iterative testing and limited reproducibility of results continue to hinder progress. To address these limitations, my goal is to develop foundational models augmented with principled interpretability frameworks and physical constraints which will be essential in bringing data-driven models towards mainstream, production-quality software for widespread use.
+My research interests lie in turbulence modeling, Sci-ML for PDE-governed systems, and in building interpretable frameworks for physics-informed models. During my undergraduate, I worked on physics-informed inverse design with [Dr. Nagabhushna Rao Vadlamani](https://home.iitm.ac.in/nrv/index.html), time series turbulence with [Dr. Mahesh Panchungula](https://home.iitm.ac.in/mvp/), and turbulence super-resolution and causality-aware Sci-ML approaches with [Dr. Konduri Aditya](https://cds.iisc.ac.in/faculty/konduriadi/). I am currently working with [Dr. Chakravarthy Balaji](https://home.iitm.ac.in/balaji/) for my Bacheloar's thesis on neural-operator guided spatio-temporal modeling of temperature fields in data-centers.For a comprehensive overview of my research background, please refer to my [CV](/assets/pdf/CV.pdf). 
 
-I am also fascinated by the rise of large language models and recent advances in agentic systems, and I aim to leverage these developments to build agentic frameworks that assist and accelerate scientific discovery.
