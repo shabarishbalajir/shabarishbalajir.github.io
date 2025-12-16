@@ -26,20 +26,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
+About
+-----
 Hello! I am Shabarish. Welcome to my academic portfolio! I am a Final-year Undergraduate Mechanical Engineering student at IIT Madras Minoring in AI. I am interested in building data-driven, physics-informed machine learning models for scalable and interpretable scientific computing.
 
 My research interests lie in turbulence modeling, Sci-ML for PDE-governed systems, and in building interpretable frameworks for physics-informed models. During my undergraduate, I worked on physics-informed inverse design with [Dr. Nagabhushna Rao Vadlamani](https://home.iitm.ac.in/nrv/index.html), time series turbulence with [Dr. Mahesh Panchungula](https://home.iitm.ac.in/mvp/), and turbulence super-resolution and causality-aware Sci-ML approaches with [Dr. Konduri Aditya](https://cds.iisc.ac.in/faculty/konduriadi/). I am currently working with [Dr. Chakravarthy Balaji](https://home.iitm.ac.in/balaji/) for my Bacheloar's thesis on neural-operator guided spatio-temporal modeling of temperature fields in data-centers.
 
 Research Interests
-My goal is build foundational Sci-Ml models with a focus on model intrepretability that alleviate tradioanl bottllenecks in compuatational systems. State-of-the-art Sci-ML methologies offer signigicant advantages, but reliance on extensive iterative testing and limited reproducibility of results continue to hinder progress.
-
-To address these limitations, my goal is to develop foundational models augmented with principled interpretability frameworks and physical constraints which will be essential in bringing data-driven models towards mainstream, production-quality software for widespread use.
+------
+My goal is build foundational Sci-Ml models with a focus on model intrepretability that alleviate tradioanl bottllenecks in compuatational systems. State-of-the-art Sci-ML methologies offer signigicant advantages, but reliance on extensive iterative testing and limited reproducibility of results continue to hinder progress. To address these limitations, my goal is to develop foundational models augmented with principled interpretability frameworks and physical constraints which will be essential in bringing data-driven models towards mainstream, production-quality software for widespread use.
 
 I am also fascinated by the rise of large language models and recent advances in agentic systems, and I aim to leverage these developments to build agentic frameworks that assist and accelerate scientific discovery.
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/shabarishbalajir/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
