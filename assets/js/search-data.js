@@ -509,11 +509,18 @@ ninja.data = [{
           window.open("mailto:%73%68%61%62%61%72%69%73%68%62%61%6C%61%6A%69@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/shabarish-balaji-999040202", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0009-3808-2076", "_blank");
         },
       },{
         id: 'social-scholar',
