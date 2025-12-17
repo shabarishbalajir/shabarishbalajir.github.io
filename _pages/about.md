@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Researcher in Scientific Machine Learning.
 
 profile:
   align: right
@@ -23,9 +22,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am Shabarish. Welcome to my academic portfolio! I am a Final-year Undergraduate Mechanical Engineering student at IIT Madras Minoring in AI. I am interested in building data-driven, physics-informed machine learning models for scalable and interpretable scientific computing.
+Hello! I am Shabarish. Welcome to my academic portfolio! I am a Final-year Undergraduate Mechanical Engineering student at IIT Madras Minoring in AI. My research interests lie in turbulence modeling, Sci-ML for PDE-governed systems, and in building interpretable frameworks for physics-informed models. I am interested in building data-driven, physics-informed machine learning models for scalable and interpretable scientific computing.
 
-My research interests lie in turbulence modeling, Sci-ML for PDE-governed systems, and in building interpretable frameworks for physics-informed models. During my undergraduate, I worked on physics-informed inverse design with [Dr. Nagabhushna Rao Vadlamani](https://home.iitm.ac.in/nrv/index.html), time series turbulence with [Dr. Mahesh Panchungula](https://home.iitm.ac.in/mvp/), and turbulence super-resolution and causality-aware Sci-ML approaches with [Dr. Konduri Aditya](https://cds.iisc.ac.in/faculty/konduriadi/). I am currently working with [Dr. Chakravarthy Balaji](https://home.iitm.ac.in/balaji/) for my Bachelor's thesis on neural-operator guided spatio-temporal modeling of temperature fields in data-centers.
+During my undergraduate, I worked on physics-informed inverse design with [Dr. Nagabhushna Rao Vadlamani](https://home.iitm.ac.in/nrv/index.html), time series turbulence with [Dr. Mahesh Panchungula](https://home.iitm.ac.in/mvp/), and turbulence super-resolution and causality-aware Sci-ML approaches with [Dr. Konduri Aditya](https://cds.iisc.ac.in/faculty/konduriadi/). I am currently working with [Dr. Chakravarthy Balaji](https://home.iitm.ac.in/balaji/) for my Bachelor's thesis on neural-operator guided spatio-temporal modeling of temperature fields in data-centers.
 
 For a comprehensive overview of my research background, please refer to my [CV](/Shabarish_Balaji_PhD_Caltech_CMS_Resume.pdf). 
 
