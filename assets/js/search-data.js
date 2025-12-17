@@ -440,14 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-m-thrilled-to-anounce-that-i-will-be-spending-my-summer-at-flame-lab-iisc-bangalore-as-a-research-intern",
+            },},{id: "news-i-m-thrilled-to-anounce-that-i-will-be-spending-my-summer-at-flame-lab-iisc-bangalore-as-a-research-intern",
           title: 'I’m thrilled to anounce that I will be spending my summer at FLAME...',
           description: "",
           section: "News",},{id: "news-our-paper-titled-gradient-based-regularization-for-inverse-airfoil-design-has-been-published-in-physics-of-fluids-volume-37-issue-11",
           title: 'Our paper titled “Gradient-based regularization for inverse airfoil design” has been published in...',
+          description: "",
+          section: "News",},{id: "news-i-presented-my-work-on-hierarchical-modeling-for-synthetic-turbulence-generation-at-aps-dfd-2025",
+          title: 'I presented my work on “Hierarchical Modeling for Synthetic Turbulence Generation” at APS...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
