@@ -509,6 +509,13 @@ ninja.data = [{
           window.open("mailto:%73%68%61%62%61%72%69%73%68%62%61%6C%61%6A%69@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/shabarishbalajir", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
