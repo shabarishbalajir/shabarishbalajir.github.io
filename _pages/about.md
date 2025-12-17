@@ -26,5 +26,5 @@ Hello! I am Shabarish. Welcome to my academic portfolio! I am a Final-year Under
 
 During my undergraduate, I worked on physics-informed inverse design with [Dr. Nagabhushna Rao Vadlamani](https://home.iitm.ac.in/nrv/index.html), time series turbulence with [Dr. Mahesh Panchungula](https://home.iitm.ac.in/mvp/), and turbulence super-resolution and causality-aware Sci-ML approaches with [Dr. Konduri Aditya](https://cds.iisc.ac.in/faculty/konduriadi/). I am currently working with [Dr. Chakravarthy Balaji](https://home.iitm.ac.in/balaji/) for my Bachelor's thesis on neural-operator guided spatio-temporal modeling of temperature fields in data-centers.
 
-For a comprehensive overview of my research background, please refer to my [CV](/Shabarish_Balaji_PhD_Caltech_CMS_Resume.pdf). 
+For a comprehensive overview of my research background, please refer to my [CV](assets/pdf/Shabarish_Balaji_PhD_Caltech_CMS_Resume.pdf). 
 
